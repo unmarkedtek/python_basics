@@ -1,0 +1,22 @@
+
+{
+    "effects": [
+        {
+            "index": "1",
+            "type": "colourspace",
+            "properties": {
+                "inputcolorspace": "aces",
+                "outputcolorspace": "aces"
+            }
+        },
+        {
+            "index": "2",
+            "type": "filetransform",
+            "properties": {
+                "path": "/tmp"
+            }
+        }
+        
+        ]
+} 
+
